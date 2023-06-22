@@ -55,8 +55,11 @@
  
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raghunathapanda&show_icons=true&locale=en&layout=compact" alt="raghunathapanda" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghunathapanda&layout=compact&langs_count=10" alt="Language Stats" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raghunathapanda&show_icons=true&locale=en" alt="raghunathapanda" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raghunathapanda&" alt="raghunathapanda" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=raghunathapanda&show_icons=true" alt="Overall Stats" />
+
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raghunathapanda" alt="Streak Stats" />
+
